@@ -81,17 +81,10 @@
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aldair2612&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aldair2612&theme=tokyonight) |
 | --- | --- |
-| ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldair2612&theme=tokyonight) | ![GitHub Extra Stats](https://github-readme-stats.vercel.app/api?username=Aldair2612&show_icons=true&locale=es&count_private=true&hide_rank=true&custom_title=Mis%20Estadísticas%20en%20GitHub&disable_animations=true&theme=tokyonight) |
+| ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldair2612&theme=tokyonight) | ![Lenguajes por Repositorio](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aldair2612&theme=radical) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-<div align="center">
-  <a href="https://github.com/Aldair2612">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aldair2612&theme=radical" alt="Lenguajes por Repositorio" style="width: 48%; height: auto; max-height: 200px;" />
-  </a>
-</div>
-
-<br>
 
 
 
