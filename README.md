@@ -1,30 +1,30 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy <b>Aldair Yauri</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello! I'm <b>Aldair Yauri</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=000000&size=24&center=true&vCenter=true&width=500&lines=💼+Economista;📊+Analista+de+Datos;📁+Gestión+de+Proyectos;🚀+Siempre+Aprendiendo!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=000000&size=24&center=true&vCenter=true&width=500&lines=💼+Economist;📊+Data+Analyst;📁+Project+Management;🚀+Always+Learning!">
   </a>
 </p>
 
-## 👨‍💻 Acerca de Mí  
+## 👨‍💻 About Me  
 
 <img width="24%" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-- 💚 Actualmente soy estudiante de la carrera de Economía y Finanzas.
+- 💚 I’m currently a student in the Economics and Finance program.
 
-- 🧑‍🎓 Estoy en proceso de formación en análisis de datos y economía aplicada.
- 
-- 🌱 Actualmente explorando GitHub y SQL como parte de mi crecimiento profesional.
+- 🧑‍🎓 I’m being trained in data analysis and applied economics.
 
-- 👋 Me apasiona transformar datos en información útil para la toma de decisiones.
+- 🌱 Currently exploring GitHub and SQL as part of my professional growth.
 
-- 💬 Me gusta compartir conocimiento y aprender en comunidad.
+- 👋 I’m passionate about transforming data into useful insights for decision-making.
 
-- 👯 Buscando colaborar en proyectos de análisis económico y ciencia de datos.
+- 💬 I enjoy sharing knowledge and learning in community.
 
-- 🌎 Portafolio Personal: [link](https://sites.google.com/view/aldairyauri-portafolio/inicio)
+- 👯 Looking to collaborate on economic analysis and data science projects.
 
-## 🛠️ Mis habilidades
+- 🌎 Personal Portfolio: [link](https://sites.google.com/view/aldairyauri-portafolio/inicio)
+
+## 🛠️ My Skills
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 </div>
 
-## 🌐 Conéctate Conmigo
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -77,27 +77,23 @@
 
 </div>
 
-## 📊 **Estadísticas de GitHub**
+## 📊 **GitHub Stats**
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aldair2612&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aldair2612&theme=tokyonight) |
 | --- | --- |
-| ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldair2612&theme=tokyonight) | ![Lenguajes por Repositorio](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aldair2612&theme=radical) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldair2612&theme=tokyonight) | ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aldair2612&theme=radical) |
 
-
-# 🔥Featured Projects: 🚀
-
-
-## ¡Gracias por visitar mi perfil de GitHub! 👨‍💻 ¡Espero que encuentres algo interesante aquí! 😊
+## 🙌 Thanks for visiting my GitHub profile! 👨‍💻 I hope you find something interesting here! 😊
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Contribuye" width="200" />
+  <img src="https://i.pinimg.com/originals/f3/b9/e5/f3b9e509a32fbf25a3529c4f4b6f2441.gif" alt="Contribute" width="500" />
 </div>
+
 
 <br>
 
 <div align="center">
   <a href="https://github.com/Aldair2612">
-    <img src="https://komarev.com/ghpvc/?username=Aldair2612&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Aldair2612&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
-
