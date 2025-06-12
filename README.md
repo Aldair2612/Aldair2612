@@ -34,10 +34,19 @@
 <img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756365/R-studio_ucx76s.png" alt="RStudio Logo" width="100">
 
 <!-- Excel -->
+<img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756962/excel_1_rbotkz.png" alt="Excel Logo" width="100">
 
 <!-- Power.Bi -->
+<img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756962/power_1_xzidiv.png" alt="Power BI Logo" width="80">
 
+<!-- SQL -->
+<img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756962/sql_1_ffyllp.png" alt="SQL Logo" width="100">
 
+<!-- STATA -->
+<img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749757308/stata_obksjb.png" alt="Stata Logo" width="100">
+
+<!-- EVIEWS -->
+<img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756963/eviews_1_ndyzos.png" alt="EViews Logo" width="100">
 
 
 ## 🌐 **Conéctate Conmigo** 🌐
