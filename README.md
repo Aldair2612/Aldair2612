@@ -1,68 +1,222 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
-### ⚙️ &nbsp;GitHub Analytics
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy <b>Aldair Yauri</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=000000&size=24&center=true&vCenter=true&width=500&lines=💼+Economista;📊+Analista+de+Datos;📁+Gestión+de+Proyectos;🚀+Siempre+Aprendiendo!">
+  </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<h2> Acerca de mí <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+- 💚 Actualmente soy estudiante de la carrera de Economía y Finanzas.
 
-Last Edited on: 11/12/2020
+- 🧑‍🎓 Estoy en proceso de formación en análisis de datos y economía aplicada.
+ 
+- 🌱 Actualmente explorando GitHub, Stata y SQL como parte de mi crecimiento profesional.
+
+- 👋 Me apasiona transformar datos en información útil para la toma de decisiones.
+
+- 💬 Me gusta compartir conocimiento y aprender en comunidad.
+
+- 👯 Buscando colaborar en proyectos de análisis económico, ciencia de datos o investigación académica.
+
+- 🌎 Portafolio Personal: [link]([https://www.0xabdulkhalid.ml](https://sites.google.com/view/aldairyauri-portafolio/inicio))
+
+
+
+
+
+
+## 🎉 **Bienvenido a mi GitHub** 👨‍💻
+👋 Soy un desarrollador apasionado por la **tecnología** y los **datos**. Trabajo con:
+- **Lenguajes**: Python, Java, SQL.
+- **Herramientas**: Docker, Prometheus, FastAPI, Power BI, Excel.
+
+✨ **Me encanta**:
+- Crear soluciones innovadoras y eficientes.
+- Participar en proyectos **open-source**.
+- Compartir conocimiento con la comunidad.
+
+---
+
+## 🌐 **Conéctate Conmigo** 🌐
+
+<div align="center">
+  <a href="https://github.com/miguelASL">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:msarmientolevy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-sarmiento-levy/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://open.spotify.com/show/3nz8yOXAfpmdYxSrkwyhLe?si=f36a4273252547ce">
+    <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+  <a href="https://www.instagram.com/data_sarmi/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com/@data_sarmi/">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+</div>
+
+---
+
+## 📊 **Estadísticas de GitHub**
+
+<div align="center">
+  <a href="https://github.com/miguelASL">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelASL&theme=radical" alt="Languages by Repo" style="width: 48%; height: auto; max-height: 200px;" />
+  </a>
+</div>
+
+---
+
+## 🔥 **Mis Habilidades**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,docker,git,linux,postman,vscode" alt="Skills" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="48" height="48" style="margin-left: 10px;" />
+</div>
+
+---
+
+# 🔥Featured Projects: 🚀
+
+### 🟢 [**Pokedex without Lombok**](https://github.com/miguelASL/Ejemplo-Pokedex) 🟢
+- 📝 **Descripción**: Implementación de una Pokédex en **Java** sin utilizar la librería Lombok.
+- 🔍 **Características**:
+  - Gestión manual de constructores y métodos.
+  - Organización de datos Pokémon.
+- 🛠️ **Tecnologías**: Java, IDE IntelliJ.
+---
+
+### 🟠 [**Pokedex with Lombok**](https://github.com/miguelASL/Ejemplo-Pokedex-lombok) 🟠
+- 📝 **Descripción**: Implementación de una Pokédex en **Java** utilizando la librería Lombok para simplificar el código.
+- 🔍 **Características**:
+  - Uso de anotaciones como `@Getter`, `@Setter`, y `@ToString`.
+  - Comparativa con la versión sin Lombok.
+- 🛠️ **Tecnologías**: Java, Lombok, IDE IntelliJ.
+---
+
+### 🏋️‍♂️ [**Fitness API**](https://github.com/miguelASL/ayuda_fitnes) 🏋️‍♂️
+- 📝 **Descripción**: Una API para gestionar datos relacionados con el fitness y la salud.
+- 🔍 **Características**:
+  - Gestión de usuarios, rutinas y progresos.
+  - Visualización de estadísticas de entrenamiento.
+- 🛠️ **Tecnologías**: Python, Flask, SQLAlchemy, Docker.
+---
+
+### 🎮 [**Variados Juegos**](https://github.com/miguelASL/juegos) 🎮
+- 📝 **Descripción**: Colección de juegos desarrollados en **Java** y **Python**.
+- 🔍 **Características**:
+  - Incluye juegos como Tic-Tac-Toe, Snake, y Ahorcado.
+  - Código modular y fácil de extender.
+- 🛠️ **Tecnologías**: Java, Python, PyGame.
+---
+
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Data Analysis Projects: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+
+### ⚽ [Final Champions 2024](https://github.com/miguelASL/final_champions_2024) ⚽
+  - 🏟️ **Descripción**: Análisis del evento deportivo más emocionante del año, la final de la UEFA Champions League 2024.
+  - 🔍 **Enfoque**: Estrategias de los equipos, predicciones, y métricas clave.
+  - 📈 **Tecnologías**: Python, Pandas, Matplotlib, y Seaborn.
+--- 
+
+### 🏆 [Análisis Previo Final Champions](https://github.com/miguelASL/analisis-previo-final-champions) 🏆
+  - 🟡⚪ **Descripción**: Análisis de uno de los eventos deportivos más emocionantes del año, la final de la UEFA Champions League.
+  - 💡 **Insights**: Estilos de juego, historial de enfrentamientos y predicciones.
+  - 📊 **Visualizaciones**: Diagramas tácticos y gráficos interactivos.
+---
+
+### 🇪🇸 [Eurocopa de España](https://github.com/miguelASL/Eurocopa_Espana) 🇪🇸
+  - 📅 **Descripción**: Análisis del rendimiento de la selección española en la Eurocopa 2024.
+  - ⚽ **Datos clave**: Posesión, goles esperados, rendimiento defensivo y ofensivo.
+  - 🔥 **Extras**: Modelos predictivos para el rendimiento en las eliminatorias.
+---
+
+### 🎵 [Analisis artista spotify](https://github.com/miguelASL/analisis_sportify) 🎵
+  - 🎧 **Descripción**: Análisis personalizado del artista que desees en Spotify.
+  - 🎼 **Datos**: Canciones más populares, géneros predominantes, y evolución musical.
+  - 🛠️ **Tecnologías**: Spotify API, Python, Dash para visualizaciones interactivas.
+---
+
+### ⚖️ [Análisis de Datos de Netflix](https://github.com/miguelASL/Analisis_netflix) 🎥
+  - 📅 **Descripción**: Exploración y análisis de patrones de consumo en Netflix.
+  - 📊 **Datos**: Historial de visualización, géneros favoritos, y series más vistas.
+  - 🔁 **Tecnologías**: Python, Pandas, Matplotlib, Seaborn, y K-Means para clustering.
+---
+
+### 📚 [Análisis de la influencia de las redes sociales y la falta de sueño en el rendimiento escolar.](https://github.com/miguelASL/Proyecto_integrador_bootcamp) 📚
+  - 📖 **Descripción**: Proyecto integrador que analiza cómo las redes sociales y la falta de sueño afectan el rendimiento escolar.
+  - 👩‍💻 **Análisis**: Encuestas, datos estadísticos, y patrones conductuales.
+  - 📊 **Tecnologías**: Python, Matplotlib, y análisis descriptivo.
+---
+
+### 🔵 [Análisis de la temporada del FC Barcelona](https://github.com/miguelASL/Barcelona-FC) 🟠
+  - 📖 **Descripción**: Análisis completo del rendimiento del FC Barcelona durante la temporada 2024/2025.
+  - ⚽ **Análisis**: Resultados por jornada, estadísticas colectivas e individuales, rendimiento ofensivo y defensivo, y visualizaciones dinámicas.
+  - 📊 **Tecnologías**: Python, Pandas, Matplotlib, Seaborn y Power BI.º
+
+---
+
+## 🤝 **Contribuciones**
+¡Las contribuciones son siempre bienvenidas! 🛠️ Si tienes una idea o mejoras, sigue estos pasos para colaborar en el proyecto:
+
+### 📂 **Pasos para Contribuir**
+1. **Haz un Fork** del proyecto:
+   - Haz clic en el botón **`Fork`** en la esquina superior derecha del repositorio.
+2. **Crea una nueva rama** para tu funcionalidad o mejora:
+   ```bash
+   git checkout -b feature/nueva-funcionalidad
+3. **Realiza tus cambios:**
+    ```bash
+    git commit -m "Agrega nueva funcionalidad: descripción breve"
+    ```
+4. **Sube tus cambios al repositorio remoto:**
+    ```bash
+    git push origin feature/nueva-funcionalidad
+    ```
+5. **Abre un Pull Request:**
+- Dirígete al repositorio original en GitHub.
+- Haz clic en **Pull Request** y selecciona tu rama.
+- Asegúrate de describir los cambios realizados y por qué son útiles.
+
+---
+
+## 💡 Consejos Útiles
+  - 🔍 Revisa la documentación y las guías del proyecto antes de empezar.
+  - 🧪 Si añades nuevas funcionalidades, incluye pruebas para demostrar que funcionan correctamente.
+  - 💬 No dudes en preguntar si necesitas ayuda. ¡Estoy aquí para colaborar contigo! 😊
+
+---
+
+## 📝 License
+
+Estos proyectos están bajo la licencia [**MIT**](https://choosealicense.com/licenses/mit/).
+
+## ¡Gracias por visitar mi perfil de GitHub! 👨‍💻 ¡Espero que encuentres algo interesante aquí! 😊
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Contribuye" width="200" />
+</div>
+
+## 🚀 **¡Atención, desarrolladores!** 🚀  
+
+- Cada vez que das ⭐ a uno de mis repositorios, un bug desaparece mágicamente del código. 🐛✨  
+
+- **¿No me crees?** Prueba tú mismo y observa cómo el universo de la programación mejora! 🌌💻  
+
+- **¡Haz clic en esa estrella y únete a la misión de salvar el código!** 🌟😎  
+
+---
+
+<div align="center">
+  <h3>👀 ¡Gracias por visitar mi perfil!</h3>
+  <a href="https://github.com/miguelASL">
+    <img src="https://komarev.com/ghpvc/?username=miguelASL&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  </a>
+</div>
