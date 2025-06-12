@@ -25,71 +25,75 @@
 - 🌎 Portafolio Personal: [link](https://sites.google.com/view/aldairyauri-portafolio/inicio)
 
 ## 🛠️ Mis habilidades
+
 <div align="center">
 
-<!-- Python -->
-<img src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icono-del-lenguaje-de-programacion-python.png" alt="Python Logo" width="100">
+  <!-- Python -->
+  <img src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icono-del-lenguaje-de-programacion-python.png" alt="Python Logo" width="100"/>
 
-<!-- R-studio -->
-<img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756365/R-studio_ucx76s.png" alt="RStudio Logo" width="100">
+  <!-- RStudio -->
+  <img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756365/R-studio_ucx76s.png" alt="RStudio Logo" width="100"/>
 
-<!-- Excel -->
-<img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756962/excel_1_rbotkz.png" alt="Excel Logo" width="100">
+  <!-- Excel -->
+  <img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756962/excel_1_rbotkz.png" alt="Excel Logo" width="100"/>
 
-<!-- Power.Bi -->
-<img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756962/power_1_xzidiv.png" alt="Power BI Logo" width="80">
+  <!-- Power BI -->
+  <img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756962/power_1_xzidiv.png" alt="Power BI Logo" width="100"/>
 
-<!-- SQL -->
-<img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756962/sql_1_ffyllp.png" alt="SQL Logo" width="100">
+  <!-- SQL -->
+  <img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756962/sql_1_ffyllp.png" alt="SQL Logo" width="100"/>
 
-<!-- STATA -->
-<img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749757308/stata_obksjb.png" alt="Stata Logo" width="100">
+  <!-- Stata -->
+  <img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749757308/stata_obksjb.png" alt="Stata Logo" width="100"/>
 
-<!-- EVIEWS -->
-<img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756963/eviews_1_ndyzos.png" alt="EViews Logo" width="100">
+  <!-- EViews -->
+  <img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756963/eviews_1_ndyzos.png" alt="EViews Logo" width="100"/>
 
-## Conéctate Conmigo 🌐
+</div>
 
-<a href="https://github.com/miguelASL">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="mailto:msarmientolevy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/miguel-sarmiento-levy/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://open.spotify.com/show/3nz8yOXAfpmdYxSrkwyhLe?si=f36a4273252547ce">
-  <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=white" alt="Spotify">
-</a>
-<a href="https://www.instagram.com/data_sarmi/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://www.tiktok.com/@data_sarmi/">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white" alt="TikTok">
-</a>
+## 🌐 Conéctate Conmigo
 
+<div align="center">
 
+  <a href="https://github.com/Aldair2612" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 
+  <a href="mailto:yaurialdair@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/aldair-jesus-yauri-altamirano-0188b3294/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=61576781705466" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+
+  <a href="https://www.instagram.com/aldair_yauri_26" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+</div>
 
 ## 📊 **Estadísticas de GitHub**
 
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aldair2612&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aldair2612&theme=tokyonight) |
+| --- | --- |
+| ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldair2612&theme=tokyonight) | ![GitHub Extra Stats](https://github-readme-stats.vercel.app/api?username=Aldair2612&show_icons=true&locale=es&count_private=true&hide_rank=true&custom_title=Mis%20Estadísticas%20en%20GitHub&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 <div align="center">
-  <a href="https://github.com/miguelASL">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelASL&theme=radical" alt="Languages by Repo" style="width: 48%; height: auto; max-height: 200px;" />
+  <a href="https://github.com/Aldair2612">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aldair2612&theme=radical" alt="Lenguajes por Repositorio" style="width: 48%; height: auto; max-height: 200px;" />
   </a>
 </div>
 
----
+<br>
 
-## 🔥 **Mis Habilidades**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,docker,git,linux,postman,vscode" alt="Skills" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="48" height="48" style="margin-left: 10px;" />
-</div>
-
----
 
 # 🔥Featured Projects: 🚀
 
