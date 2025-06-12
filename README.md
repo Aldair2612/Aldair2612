@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h2> Acerca de mí <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+## 👨‍💻 Acerca de Mí  
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -14,36 +14,34 @@
 
 - 🧑‍🎓 Estoy en proceso de formación en análisis de datos y economía aplicada.
  
-- 🌱 Actualmente explorando GitHub, Stata y SQL como parte de mi crecimiento profesional.
+- 🌱 Actualmente explorando GitHub y SQL como parte de mi crecimiento profesional.
 
 - 👋 Me apasiona transformar datos en información útil para la toma de decisiones.
 
 - 💬 Me gusta compartir conocimiento y aprender en comunidad.
 
-- 👯 Buscando colaborar en proyectos de análisis económico, ciencia de datos o investigación académica.
+- 👯 Buscando colaborar en proyectos de análisis económico y ciencia de datos.
 
-- 🌎 Portafolio Personal: [link]([https://www.0xabdulkhalid.ml](https://sites.google.com/view/aldairyauri-portafolio/inicio))
+- 🌎 Portafolio Personal: [link](https://sites.google.com/view/aldairyauri-portafolio/inicio)
+
+## 🛠️ Mis habilidades
+<div align="center">
+
+<!-- Python -->
+<img src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icono-del-lenguaje-de-programacion-python.png" alt="Python Logo" width="100">
+
+<!-- R-studio -->
+<img src="https://res.cloudinary.com/dqlkl1lsk/image/upload/v1749756365/R-studio_ucx76s.png" alt="RStudio Logo" width="100">
+
+<!-- Excel -->
+
+<!-- Power.Bi -->
 
 
 
-
-
-
-## 🎉 **Bienvenido a mi GitHub** 👨‍💻
-👋 Soy un desarrollador apasionado por la **tecnología** y los **datos**. Trabajo con:
-- **Lenguajes**: Python, Java, SQL.
-- **Herramientas**: Docker, Prometheus, FastAPI, Power BI, Excel.
-
-✨ **Me encanta**:
-- Crear soluciones innovadoras y eficientes.
-- Participar en proyectos **open-source**.
-- Compartir conocimiento con la comunidad.
-
----
 
 ## 🌐 **Conéctate Conmigo** 🌐
 
-<div align="center">
   <a href="https://github.com/miguelASL">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
   </a>
