@@ -20,7 +20,7 @@
 
 - 💬 I enjoy sharing knowledge and learning in community.
 
-- 👯 Looking to collaborate on economic analysis and data science projects.
+- 🤝 Looking to collaborate on economic analysis and data science projects.
 
 - 🌎 Personal Portfolio: [link](https://sites.google.com/view/aldairyauri-portafolio/inicio)
 
