@@ -51,7 +51,7 @@
 
 </div>
 
-## 🌐 Connect With Me
+## 🌐 Contact me
 
 <div align="center">
 
