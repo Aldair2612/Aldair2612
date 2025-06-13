@@ -85,7 +85,7 @@
 
 
 
-## ¡Thanks for visiting my GitHub profile! 👨‍💻 ¡I hope you find something interesting here! 😊
+## ¡I'm sure you found something interesting! 👨‍💻 ¡Thanks for visiting my profile! 😊
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/f3/b9/e5/f3b9e509a32fbf25a3529c4f4b6f2441.gif" alt="Contribute" width="500" />
