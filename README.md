@@ -78,11 +78,9 @@
 </div>
 
 ## 📊 **GitHub Stats**
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aldair2612&show_icons=true&theme=tokyonight&cache_seconds=1800) | ![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Aldair2612&theme=tokyonight&hide_border=false) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aldair2612&show_icons=true&theme=tokyonight&cache_seconds=1800) | ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Aldair2612&theme=tokyonight&hide_border=false&cache_seconds=1800)|
 | --- | --- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldair2612&theme=tokyonight&layout=compact&langs_count=6&hide_progress=false) | ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aldair2612&theme=radical) |
-
 
 ## ¡I'm sure you found something interesting! 👨‍💻 ¡Thanks for visiting my profile! 😊
 
